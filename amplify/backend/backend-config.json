@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "loginscreen4cf3c84b": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
